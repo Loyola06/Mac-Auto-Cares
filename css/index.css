@@ -1,0 +1,102 @@
+#navcodebar {
+    background-color: #303841;
+    padding-bottom: 200px;
+ 
+}
+
+.mic {
+   padding-left: 30px;
+   font-family: cursive;
+   font-size: 2.5rem;
+   font-weight: bolder;
+   color: #fff ;
+   padding-top: 100px;
+}
+
+
+.micname {
+    padding-left: 30px;
+    font-family: cursive;
+    font-size: 1.4rem;
+    color: #fff;
+    
+   
+}
+
+.mic1 {
+    padding-left: 30px;
+    font-family: italic;
+    font-size: 1.2rem;
+    color: #fff;
+}
+ 
+
+.color {
+    background-color: #ffeed9;
+}
+.cloud14 {
+    padding-left: 10px;
+    padding-top: 10px;
+  
+}
+
+#features {
+    padding:  7% 15%;
+    background-color: #e0f4ff;
+}
+
+.what {
+    padding: 2% 2%
+}
+
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #39a7ff;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: royalblue;
+}
+
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+background-color: #303841;
+color: #fff;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 10% 20%;
+
+}
+
+.arrow {
+    color: black;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+    font-family: math;
+    font-weight: bolder;
+}
+
+.mechn {
+    width: 400px;
+    padding-top: 100px;
+    padding-right: 30px;
+  padding-bottom: 80px;
+}
+

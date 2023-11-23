@@ -1,0 +1,52 @@
+#font {
+background-color: #A27B5C;
+}
+
+h1 {
+    padding-left: 10px;
+    font-size: 1.2rem;
+    font-family: monospace;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+h2 {
+    padding-left: 10px;
+    font-size: 1rem;
+    font-family: math;
+    font-weight: bold;
+
+}
+
+p {
+    padding-left: 10px;
+    font-size: 0.9rem;
+    font-family: cursive;
+    font-weight: small;
+}
+
+
+.navbar-brand {
+    font-size: 3rem;
+    font-family: math;
+    font-weight: bolder;
+}
+
+
+.color {
+    background-color:  #ffeed9;
+}
+
+.imi {
+
+    width: 410px;
+
+}
+
+.box_img {
+    padding-top: 20px;
+  width: 160px;
+}
+
+#first1 {
+    background-color: #fff;
+}
